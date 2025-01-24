@@ -1,5 +1,9 @@
-# InventoryManagement
+## Welcome to my profile!
 
+# InventoryManagement
+I have built an inventory management system which will manage stocking and notify when the levels get low. The idea for the system is manage inventory stocks, adding, removing and replenishment.
+
+# Tech Stack
 Here, I have used Docker to Deploy the project.
 
 # Steps to run the project
